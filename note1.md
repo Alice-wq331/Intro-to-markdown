@@ -14,7 +14,7 @@
 $$
 CTRL+M会自动添加两个美元符号，连按两下会是四个美元符号
 $$
-$\lim_{x \to \infin}f(x)$
+$\lim_{x \to \inf}f(x)$
 
 ## 表格
 ALT+SHIFT+F 格式化表格
